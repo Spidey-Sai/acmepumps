@@ -1,0 +1,63 @@
+body {
+    width: 100%;
+    background-color: #285430;
+}
+
+/* @media (min-width: 576px) {
+    .carousel-item {
+        background-color: green;
+    }
+} */
+
+#demo {
+    padding-top: 10%;
+    background-color: #5F8D4E;
+    max-width: 100%;
+    border-image: auto;
+}
+
+.container {
+    background-color: white;
+}
+
+.navbar {
+    background-color: #5F8D4E;
+}
+
+.carousel1 .carousel-inner {
+    width: 60%;
+}
+
+
+.carousel1 .carousel-item {
+    padding-left: 60%;
+    padding-bottom: 15%;
+}
+
+.caption {
+    text-align: center;
+    padding: 0 5%;
+}
+
+img {
+    max-width: 100%;
+}
+
+.gallery {
+    padding: 80px 0;
+}
+
+.about-us {
+    text-align: justify;
+}
+
+.carousel2 .carousel-item {
+    display: flex;
+    align-items: center;
+    background-color: #5F8D4E;
+}
+
+.carousel2 .carousel-inner{
+
+}
+
